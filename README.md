@@ -12,6 +12,6 @@ I'm a **Software Engineer** experienced in building resilient, high-load environ
 * **Architectural Precision:** Applying solid engineering patterns to build maintainable and scalable server-side solutions.
 
 ### Tech Agnostic Stack
-* **Frameworks:** Laravel, Slim, Drupal (Laravel).
+* **Frameworks:** Laravel, Slim, Drupal.
 * **Databases:** MongoDB, PostgreSQL, MySQL, Oracle, Redis.
 * **Infrastructure & Messaging:** Docker, MQTT, Asterisk, performance optimization, and automation scripts.
