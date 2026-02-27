@@ -13,8 +13,16 @@ I'm a **Software Engineer** with experience in building high-load environments &
 * **Multi-Database Environments:** Working with various database types (RDBMS, NoSQL, In-memory) to solve specific storage, caching, and retrieval tasks.
 * **Stream Processing & Monitoring:** Processing and managing data flows for real-time monitoring and reporting systems.
 
-### Tech Agnostic Stack
+### Tech Stack
 
+* **Languages:** PHP (Core), SQL, HTML/CSS/JavaScript (Basic).
 * **Frameworks:** Laravel, Slim, Drupal.
 * **Databases:** MongoDB, PostgreSQL, MySQL, Oracle, Redis.
-* **Infrastructure:** Docker, MQTT, Asterisk.
+* **Infrastructure & Tools:** Docker, MQTT, Asterisk, Git, SVN.
+
+### Industry Experience
+* Customer Self Care
+* Telecommunications
+* ERP Systems
+* Chatbots
+* Utility Services
