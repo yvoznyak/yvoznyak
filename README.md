@@ -1,17 +1,20 @@
 # Hi there
 
-I'm a **Software Engineer** experienced in building resilient, high-load environments and complex automated ecosystems. Focused on delivering stable, scalable solutions through sound engineering principles and architectural precision.
+I'm a **Software Engineer** involved in building high-load environments & complex automated ecosystems. Focused on delivering performant and reliable solutions through sound engineering principles.
 
 ---
 
 ### Engineering Experience
-* **High-Load Systems:** Developing and scaling systems to handle large user bases and heavy traffic loads without compromising stability.
-* **Resilient Architecture:** Designing environments that maintain operations during component failures or network instability.
-* **Complex Ecosystems:** Building automated platforms, user portals, and self-service systems designed for scale.
-* **System Integrity:** Developing automated tools for data audits, backups, and long-term system maintenance.
-* **Architectural Precision:** Applying solid engineering patterns to build maintainable and scalable server-side solutions.
+
+* **High-Load Systems:** Developing backend for platforms with large user bases, focusing on low-latency responses and stability under heavy traffic.
+* **Complex Ecosystems:** Implementing integrated solutions and automated platforms that combine multiple services into a single functional environment.
+* **Messaging & Real-Time Data:** Building event-driven architectures using message brokers for instant data processing and system connectivity.
+* **Distributed Databases:** Designing and implementing complex distributed data systems focused on fault tolerance and reliability.
+* **Multi-Database Environments:** Working with various database types (RDBMS, NoSQL, In-memory) to solve specific storage, caching, and retrieval tasks.
+* **Stream Processing & Monitoring:** Processing and managing complex data flows for real-time monitoring and reporting systems.
 
 ### Tech Agnostic Stack
+
 * **Frameworks:** Laravel, Slim, Drupal.
 * **Databases:** MongoDB, PostgreSQL, MySQL, Oracle, Redis.
-* **Infrastructure & Messaging:** Docker, MQTT, Asterisk, performance optimization, and automation scripts.
+* **Infrastructure:** Docker, MQTT, Asterisk, .
