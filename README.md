@@ -1,6 +1,6 @@
 # Hi there
 
-I'm a **Software Engineer** involved in building high-load environments & complex automated ecosystems. Focused on delivering performant and reliable solutions through sound engineering principles.
+I'm a **Software Engineer** with experience in building high-load environments & complex automated ecosystems. Focused on delivering performant and reliable solutions through sound engineering principles.
 
 ---
 
