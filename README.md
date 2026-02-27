@@ -17,4 +17,4 @@ I'm a **Software Engineer** involved in building high-load environments & comple
 
 * **Frameworks:** Laravel, Slim, Drupal.
 * **Databases:** MongoDB, PostgreSQL, MySQL, Oracle, Redis.
-* **Infrastructure:** Docker, MQTT, Asterisk, .
+* **Infrastructure:** Docker, MQTT, Asterisk.
