@@ -9,8 +9,8 @@ I'm a **Software Engineer** with experience in building high-load environments &
 * **High-Load Systems:** Developing backend for platforms with large user bases, focusing on low-latency responses and stability under heavy traffic.
 * **Complex Ecosystems:** Implementing integrated solutions and automated platforms that combine multiple services into a single functional environment.
 * **Messaging & Real-Time Data:** Building event-driven architectures using message brokers for instant data processing and system connectivity.
-* **Distributed Databases:** Designing and implementing distributed data systems focused on fault tolerance and reliability.
-* **Multi-Database Environments:** Working with various database types (RDBMS, NoSQL, In-memory) to solve specific storage, caching, and retrieval tasks.
+* **Distributed Systems:** Designing and implementing distributed systems focused on high availability, fault tolerance, and reliability.
+* * **Multi-Database Environments:** Working with various database types (RDBMS, NoSQL, In-memory) to solve specific storage, caching, and retrieval tasks.
 * **Stream Processing & Monitoring:** Processing and managing data flows for real-time monitoring and reporting systems.
 
 ### Tech Agnostic Stack
