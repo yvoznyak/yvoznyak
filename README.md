@@ -22,7 +22,7 @@ robust backend architectures that ensure system reliability and performance.
 * **Infrastructure**: Docker, Linux (CentOS, Oracle).
 * **Integrations & APIs**: MQTT, AI Text-to-Speech, Telegram API, Google Cloud API.
 * **Tools**: Git, Subversion.
-• **Methodologies**: Agile, Waterfall, SOLID.
+* **Methodologies**: Agile, Waterfall, SOLID.
 
 ## Domain Expertise
 * Telecommunications
