@@ -1,10 +1,14 @@
-# Hi there
+## About
 
-I'm a **Software Engineer** with experience in building high-load environments & complex automated ecosystems. Focused on delivering performant and reliable solutions through sound engineering principles.
+Software Engineer with 4 years of experience specializing in complex automation systems and high-load envi-
+ronments. Expert in the PHP stack (Laravel, Slim, Drupal) within Linux infrastructure and handling large-scale
+datasets (Oracle, MySQL, MongoDB). Delivered 15+ projects, ranging from custom business websites to high-
+load customer portals (5,000+ concurrent users) and fault-tolerant distributed systems. Focused on developing
+robust backend architectures that ensure system reliability and performance.
 
 ---
 
-### Engineering Experience
+## Engineering Experience
 
 * **High-Load Systems:** Developing backend for platforms with large user bases, focusing on low-latency responses and stability under heavy traffic.
 * **Complex Ecosystems:** Implementing integrated solutions and automated platforms that combine multiple services into a single functional environment.
@@ -13,16 +17,18 @@ I'm a **Software Engineer** with experience in building high-load environments &
 * **Multi-Database Environments:** Working with various database types (RDBMS, NoSQL, In-memory) to solve specific storage, caching, and retrieval tasks.
 * **Stream Processing & Monitoring:** Processing and managing data flows for real-time monitoring and reporting systems.
 
-### Tech Stack
+## Tech Stack
 
-* **Languages:** PHP (Core), SQL, HTML/CSS/JavaScript (Basic).
-* **Frameworks:** Laravel, Slim, Drupal.
-* **Databases:** MongoDB, PostgreSQL, MySQL, Oracle, Redis.
-* **Infrastructure & Tools:** Docker, MQTT, Asterisk, Git, SVN.
+* **Languages & Frameworks**: PHP (Laravel, Slim, Drupal), HTML/CSS/JS, Python.
+* **Databases**: Oracle, MySQL, MongoDB, PostgreSQL, Redis.
+* **Infrastructure**: Docker, Linux (CentOS, Oracle).
+* **Integrations & APIs**: MQTT, AI Text-to-Speech, Telegram API, Google Cloud API.
+* **Tools**: Git, Subversion.
+• **Methodologies**: Agile, Waterfall, SOLID.
 
-### Industry Experience
-* Customer Self Care
+## Domain Expertise
 * Telecommunications
+* Energy & Utilities
+* Customer Portals
 * ERP Systems
 * Chatbots
-* Utility Services
