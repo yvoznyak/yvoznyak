@@ -6,8 +6,6 @@ datasets (Oracle, MySQL, MongoDB). Delivered 15+ projects, ranging from custom b
 load customer portals (5,000+ concurrent users) and fault-tolerant distributed systems. Focused on developing
 robust backend architectures that ensure system reliability and performance.
 
----
-
 ## Engineering Experience
 
 * **High-Load Systems:** Developing backend for platforms with large user bases, focusing on low-latency responses and stability under heavy traffic.
